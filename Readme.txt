@@ -1,0 +1,1 @@
+A simple wikipedia search application.
